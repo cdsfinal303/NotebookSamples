@@ -1,0 +1,2 @@
+Dailyprice_directory: \Users\babyl\Desktop\Mason classes\Second year\fall 2023\cds 303 mod 10_30 pm\class project\NotebookSamples\Datasets\newDailyPricesTechCompanies.csv
+Sentiment_directory: \Users\babyl\Desktop\Mason classes\Second year\fall 2023\cds 303 mod 10_30 pm\class project\NotebookSamples\Datasets\news_sentiment_data.xlsx
